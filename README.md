@@ -1,5 +1,5 @@
-# 立方体的个人博客 :link: https://RyaninChina11.github.io/myBlog 
-### :page_facing_up: [1](https://RyaninChina11.github.io/myBlog/tag.html) 
+# 立方体的个人博客 :link: https://RyaninChina11.github.io/
+### :page_facing_up: [1](https://RyaninChina11.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 9 
 ### :alarm_clock: 2025-01-30 16:33:50 
